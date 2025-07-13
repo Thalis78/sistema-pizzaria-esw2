@@ -2,7 +2,7 @@
 
 Sistema de Pizzaria usado como Trabalho Final da disciplina de **Engenharia de Software 2**.
 
-Este é um sistema web **monolítico** para uma pizzaria fictícia, criado com foco em boas práticas de desenvolvimento, arquitetura MVC e tecnologias modernas.
+Este é um sistema web **monolítico** para uma pizzaria de Timon, criado com foco em boas práticas de desenvolvimento, arquitetura MVC e tecnologias modernas.
 
 Desenvolvido por **Thalisson Moura**
 
