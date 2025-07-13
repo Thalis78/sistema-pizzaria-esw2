@@ -20,7 +20,7 @@ Desenvolvido por **Thalisson Moura**
 
 O **Documento de Visão** descreve os objetivos, escopo, funcionalidades e requisitos principais do sistema, servindo como base para o desenvolvimento e entendimento do projeto.
 
-📎 [Acessar Documento de Visão](https://github.com/Thalis78/Favorita-Pizzaria)
+📎 [Acessar Documento de Visão](https://github.com/Thalis78/sistema-pizzaria-esw2/tree/122b951665578b852c4cb18e1bfee98c12fdd56c/Documento_Vis%C3%A3o)
 
 ---
 
@@ -28,7 +28,7 @@ O **Documento de Visão** descreve os objetivos, escopo, funcionalidades e requi
 
 Os diagramas do sistema foram elaborados utilizando UML, com o auxílio da ferramenta PlantUML, que permite uma criação rápida, precisa e de fácil manutenção dos diagramas.
 
-📎 [Acesse os diagramas aqui](https://github.com/Thalis78/sistema-pizzaria-esw2)
+📎 [Acesse os diagramas aqui](https://github.com/Thalis78/sistema-pizzaria-esw2/tree/122b951665578b852c4cb18e1bfee98c12fdd56c/Diagramas)
 
 ---
 
