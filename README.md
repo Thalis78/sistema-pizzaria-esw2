@@ -1,6 +1,6 @@
 # Pizzaria Favorita — Trabalho Final de Engenharia de Software 2
 
-Sistema desenvolvido como Trabalho Final da disciplina de **Engenharia de Software 2**.
+Sistema de Pizzaria usado como Trabalho Final da disciplina de **Engenharia de Software 2**.
 
 Este é um sistema web **monolítico** para uma pizzaria fictícia, criado com foco em boas práticas de desenvolvimento, arquitetura MVC e tecnologias modernas.
 
